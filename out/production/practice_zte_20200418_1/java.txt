@@ -1,0 +1,7 @@
+Java is an object-oriented programming language, not only to absorb
+the advantages of C++ language, but also to abandon the C++ in the
+difficult to understand the concept of multiple inheritance,
+pointer, so the Java language has powerfuland easy to use two
+characteristics.The Java language, as a representative of static
+object-oriented programming language, is an excellent
+implementation of object-oriented theory, allowing programmers to think elegantly about complex programming
